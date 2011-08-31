@@ -1,0 +1,239 @@
+body 
+{
+	text-align: center;
+	background-color: #8B8B8B;
+	max-width: 1024px;
+}
+
+a, a:visited
+{
+	color: #FF3399;
+	text-decoration: none;
+}
+a:hover
+{
+	color: #FF3399;
+	text-decoration: underline;
+}
+
+#Body 
+{
+	width: 95%;
+	height: 100%;
+	background-color: #000000;
+	color: #FFFFFF;
+	margin-left: 25px;
+	margin-right: 20px;
+	font-size: larger;
+}
+
+#TopHeader
+{
+	width: 100%;
+	background-color: #6F6F6F;
+	color: #FFFFFF;
+	text-align: left;
+	font-family: Arial;
+	letter-spacing: 2px;
+	font-size: 10pt;
+}
+
+#Header
+{
+	width: 100%;
+	background-color: #FF3399;
+}
+#Header table
+{
+	width: 100%;
+}
+.HeaderImg
+{
+	width: 155px;
+}
+.HeaderText
+{
+	font-size: 18pt;
+	text-decoration: underline;
+	text-align: center;
+}
+.PinkHeaderText
+{
+	font-size: 18pt;
+	color: #FF3399;
+	text-decoration: underline;
+	text-align: center;
+}
+.PinkSmallHeaderText
+{
+	font-size:  16pt;
+	color: #FF3399;
+	text-decoration: underline;
+	text-align: center;
+}
+
+#MainContent
+{
+	width: 100%;
+	background-color: #000000;
+	height: 300px;
+}
+
+#MenuPane
+{
+	min-width: 140px;
+	width: 140px;
+	vertical-align: top;
+	border: solid 1px #8B8B8B;
+	height: 300px;
+}
+
+#HomeFooter
+{
+	font-size: 18pt;
+	text-decoration: underline;
+	text-align: center;
+}
+
+.Content
+{
+	width: 100%;
+	background-color: #000000;
+	height: 100%;
+	border: solid 1px #8B8B8B;
+	text-align: left;
+}
+
+#Footer
+{
+	width: 100%;
+	background-color: #FF3399;
+	vertical-align: middle;
+	text-align: center;
+	font-size: 16pt;
+}
+
+.accordianHeader
+{
+	background-color: #FF3399;
+	padding-left: 10px;
+	margin-top: 5px;
+}
+
+.accordianContent
+{
+	border: solid 1px #FF3399;
+	padding: 10px;
+}
+
+.CalendarHeader
+{
+	background-color: #FF3399;
+	text-align: center; 
+	font-size: 28pt; 
+	height: 50px;
+	color: #000000;
+	letter-spacing: 5px;
+}
+.CalendarNavigation
+{
+	background-color: #FF3399;
+	text-align: center; 
+	height: 50px;
+	color: #000000;
+	line-height: 50px;
+}
+.CalendarNavigation a, .CalendarNavigation a:visited, .CalendarNavigation a:hover
+{
+	font-size: smaller;
+	color: #000000;
+}
+.CalendarDayHeader
+{
+	height: auto;
+	width: 14%;
+	text-align: center;
+	vertical-align: middle;
+	border: solid 1px #FFFFFF;
+}
+.CalendarDay
+{
+	clear: both;
+	height: 75px;
+	width: 14%;
+	text-align: left;
+	vertical-align: top;
+	border: solid 1px #FFFFFF;
+	background-color: #6F6F6F;
+}
+.CalendarDayBlank
+{
+	clear: both;
+	height: 75px;
+	width: 14%;
+	text-align: left;
+	vertical-align: top;
+}
+.CalendarNum
+{
+	vertical-align: top;
+}
+.CalendarEventContainer
+{
+	width: 100%;
+	max-height: 70px;
+	vertical-align: top;
+	text-align: center;
+	overflow: auto;
+}
+.CalendarEvent
+{
+	width: 80%;
+	background-color: #EDDA74;
+	vertical-align: top;
+	text-align: center;
+	padding-top: 3px;
+	font-size: 8pt;
+	color: #000000;
+	text-decoration: underline;
+	overflow: auto;
+}
+.CalendarPopUp
+{
+	width: 200px;
+	background-color: #6698FF;
+	color: #FFFFFF;
+	font-size: smaller;
+	text-align: left;
+	padding: 2px;
+}
+
+.FAQQuestion
+{
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align: left;
+	margin-bottom: 0;
+	background-color: #FF3399;
+}
+.FAQAnswer
+{
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align: left;
+	margin-top: 0;
+	padding-bottom: 5px;
+}
+
+.ProfileImg
+{
+	width: 125px;
+	text-align: center;
+	font-size: smaller;
+	border: solid 1px #FF3399;
+}
+.ProfileTestimonial
+{
+	vertical-align: middle;
+	border: solid 1px #FF3399;
+}
