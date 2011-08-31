@@ -1,0 +1,330 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<studentprofiles>
+  <class period="Spring 2011">
+    <day image="/Spring/2011/classpic.jpg">
+      <student name="Elaine Foster" image="/Spring/2011/elainefoster.jpg"
+               hometown="Muncie" testimonial="" />
+      <student name="Dee Dee Smith" image="/Spring/2011/deedeesmith.jpg"
+               hometown="Indy East Side" testimonial="" />
+      <student name="Andrea Alacron" image="/Spring/2011/andreaalacron.jpg"
+               hometown="Carmel" testimonial="" />
+      <student name="Amber Kot" image="/Spring/2011/amberkot.jpg"
+               hometown="McCordsville" testimonial="" />
+    </day>
+  </class>
+  <class period="Fall 2010">
+    <day image="/Winter/2011/classpic.jpg">
+      <student name="Chelsea Elery" image="/Winter/2011/chelseaelery.jpg"
+               hometown="Noblesville" testimonial="" />
+      <student name="Emily Mellott" image="/Winter/2011/emilymellott.jpg"
+               hometown="Lapel" testimonial="" />
+      <student name="Tana Absher" image="/Winter/2011/tanaabsher.jpg"
+               hometown="Noblesville" testimonial="" />
+      <student name="Kaylee Fowler" image="/Winter/2011/kayleefowler.jpg"
+               hometown="New Castle" testimonial="" />
+      <student name="Patty Henrichs" image="/Winter/2011/pattyhenrichs.jpg"
+               hometown="Indy-North" testimonial="" />
+      <student name="Kylee Hancock" image="/Winter/2011/kyleehancock.jpg"
+               hometown="Cicero" testimonial="" />
+      <student name="Maria Martinez" image="/Winter/2011/mariamartinez.jpg"
+               hometown="Indy-East" testimonial="" />
+      <student name="Kim Brown" image="/Winter/2011/kimbrown.jpg"
+               hometown="Muncie" testimonial="" />
+      <student name="Tiffany Peercy" image="/Winter/2011/tiffanypeercy.jpg"
+               hometown="Muncie" testimonial="" />
+      <student name="Kristina Kennedy" image="/Winter/2011/kristinakennedy.jpg"
+               hometown="Anderson" testimonial="" />
+      <student name="Robyn Roberts" image="/Winter/2011/robynroberts.jpg"
+               hometown="Westfield" testimonial="" />
+      <student name="Hannah Henshaw" image="/Winter/2011/hannahhenshaw.jpg"
+               hometown="Noblesville" testimonial="" />
+    </day>
+  </class>
+  <class period="Summer 2010">
+    <day image="/Fall/2010/classpic.jpg">
+      <student name="Erika Shively" image="/Fall/2010/Student1.jpg"
+               hometown="Logansport" testimonial="" />
+      <student name="Molly Taylor" image="/Fall/2010/Student2.jpg"
+               hometown="Broad Ripple" testimonial="" />
+      <student name="April Blake" image="/Fall/2010/Student3.jpg"
+               hometown="Indy-East" testimonial="" />
+      <student name="Stephanie McWilliams" image="/Fall/2010/Student4.jpg"
+               hometown="Pendleton" testimonial="" />
+      <student name="Brittany Chalfant" image="/Fall/2010/Student5.jpg"
+               hometown="Muncie" testimonial="" />
+      <student name="Whitney Hirth" image="/Fall/2010/Student6.jpg"
+               hometown="New Palenstine" testimonial="" />
+    </day>
+  </class>
+  <class period="Spring 2010">
+    <day image="/Spring/2010/classpic.jpg">
+      <student name="Cheryl Eastman" image="/Spring/2010/individual1.jpg"
+               hometown="Indianapolis, IN" testimonial="" />
+      <student name="Lori New" image="/Spring/2010/individual2.jpg"
+               hometown="Union City, IN" testimonial="" />
+      <student name="Brei Gossett" image="/Spring/2010/individual3.jpg"
+               hometown="Indianapolis, IN" testimonial="" />
+      <student name="Stacey Hale" image="/Spring/2010/individual4.jpg"
+               hometown="Tipton, IN" testimonial="" />
+      <student name="Jonae Yancey" image="/Spring/2010/individual5.jpg"
+               hometown="Indianapolis, IN" testimonial="" />
+      <student name="Whitney New" image="/Spring/2010/individual6.jpg"
+               hometown="Richmond, IN" testimonial="" />
+    </day>
+  </class>
+  <class period="Winter 2010">
+    <day image="/Winter/2010/winter10055.JPG">
+      <student name="Mandi Landes" image="/Winter/2010/winter10056.JPG"
+               hometown="Evansville, IN" testimonial="" />
+      <student name="Tonia Robbins" image="/Winter/2010/winter10057.JPG"
+               hometown="Noblesville, IN" testimonial="" />
+      <student name="Nikki Myers" image="/Winter/2010/winter10058.JPG"
+               hometown="Plainfield, IN" testimonial="" />
+      <student name="Cori Myers" image="/Winter/2010/winter10059.JPG"
+               hometown="Avon, IN" testimonial="" />
+      <student name="Cari Stockton" image="/Winter/2010/winter10061.JPG"
+               hometown="New Castle, IN" testimonial="" />
+      <student name="Allie Welch" image="/Winter/2010/winter10062.JPG"
+               hometown="Bloomington, IN" testimonial="" />
+      <student name="Shae Freed" image="/Winter/2010/winter10063.JPG"
+               hometown="Anderson, IN" testimonial="" />
+    </day>
+  </class>
+  <class period="Fall 2009">
+    <day image="/Fall/2009/kids fall 09 winter  09 040.JPG">
+      <student name="Johnda Fish" image="/Fall/2009/kids fall 09 winter  09 031.JPG"
+               hometown="Southwest Indy" testimonial="" />
+      <student name="Amanda Wiles" image="/Fall/2009/kids fall 09 winter  09 032.JPG"
+               hometown="Anderson, IN" testimonial="" />
+      <student name="Shannon Wyatt" image="/Fall/2009/kids fall 09 winter  09 033.JPG"
+               hometown="Greenfield, IN" testimonial="" />
+      <student name="Ashley Mullis" image="/Fall/2009/kids fall 09 winter  09 034.JPG"
+               hometown="Bloomington, IN" testimonial="" />
+      <student name="Leesa Bevelhimer" image="/Fall/2009/kids fall 09 winter  09 035.JPG"
+               hometown="Anderson, IN" testimonial="" />
+      <student name="Courtney Zagar" image="/Fall/2009/kids fall 09 winter  09 036.JPG"
+               hometown="Fishers, IN" testimonial="" />
+      <student name="Carly Marshall" image="/Fall/2009/kids fall 09 winter  09 038.JPG"
+               hometown="Noblesville, IN" testimonial="" />
+    </day>
+  </class>
+  <class period="Summer 2009">
+    <day image="/Summer/2009/SummerClass2009.jpg">
+      <student name="Shannon Preddie" image="/Summer/2009/ShannonPreddie.jpg"
+               hometown="West Indy" testimonial="" />
+      <student name="Paula Burkett" image="/Summer/2009/PaulaBurkett.jpg"
+               hometown="Anderson, In" testimonial="" />
+      <student name="Janet Stewart" image="/Summer/2009/JanetStewart.jpg"
+               hometown="Anderson, In" testimonial="" />
+      <student name="Melissa Weisheit" image="/Summer/2009/MelissaWeisheit.jpg"
+               hometown="New Castle, In" testimonial="" />
+      <student name="Donna Yates" image="/Summer/2009/DonnaYates.jpg"
+               hometown="Carmel, In" testimonial="" />
+    </day>
+  </class>
+  <class period="Spring 2009">
+    <day image="/Spring/2009/SpringClass2009.jpg">
+      <student name="Kayla Fritze" image="/Spring/2009/KaylaFritze.jpg"
+               hometown="Anderson, In" testimonial="" />
+      <student name="Amanda Allen" image="/Spring/2009/AmandaAllen.jpg"
+               hometown="Anderson, In" testimonial="" />
+      <student name="Ashley Ferguson" image="/Spring/2009/AshleyFerguson.jpg"
+               hometown="South Indy" testimonial="" />
+      <student name="Jessica Ferrell" image="/Spring/2009/JessicaFerrell.jpg"
+               hometown="New Castle, In" testimonial="" />
+      <student name="Emily Brown" image="/Spring/2009/EmilyBrown.jpg"
+               hometown="Fishers, In" testimonial="" />
+      <student name="Kristie Steiner" image="/Spring/2009/KristieSteiner.jpg"
+               hometown="East Indy" testimonial="" />
+      <student name="Char Tolliver" image="/Spring/2009/CharTolliver.jpg"
+               hometown="East Indy" testimonial="" />
+      <student name="Shari Gaughan" image="/Spring/2009/ShariGaughan.jpg"
+               hometown="Carmel, In" testimonial="" />
+    </day>
+  </class>
+  <class period ="Winter 2009">
+    <day image="/Winter/2009/100_0305.jpg">
+      <student name="Anne Marie Straub" image="/Winter/2009/100b0341.jpg"
+               hometown="Fishers, In" testimonial="" />
+      <student name="Tiffany Talley" image="/Winter/2009/100b0351.jpg"
+               hometown="Avon, In" testimonial="" />
+      <student name="Jennifer Graves" image="/Winter/2009/100b0320.jpg"
+               hometown="Fishers, In" testimonial="" />
+      <student name="Tiffany Morris" image="/Winter/2009/100b0331.jpg"
+               hometown="Carmel, In" testimonial="" />
+      <student name="Kati Conner" image="/Winter/2009/100_0419.jpg"
+               hometown="Hartford City, In" testimonial="" />
+      <student name="Leslie Widget" image="/Winter/2009/100_0382.jpg"
+               hometown="Noblesville, In" testimonial="" />
+      <student name="Melissa Cooey" image="/Winter/2009/100b0360.jpg"
+               hometown="Noblesville, In" testimonial="" />
+      <student name="Shelley Allen" image="/Winter/2009/100b0370.jpg"
+               hometown="Southside Indy" testimonial="" />
+    </day>
+  </class>
+  <class period="Fall 2008">
+    <day image="/Fall/2008/winter 08 019.jpg">
+      <student name="Casey Shock" image="/Fall/2008/winter 08 011.jpg"
+               hometown="Knightstown" testimonial="" />
+      <student name="Kimberly Bond" image="/Fall/2008/winter 08 012.jpg"
+               hometown="Middletown" testimonial="" />
+      <student name="Shauna Merida" image="/Fall/2008/winter 08 013.jpg"
+               hometown="Southside-Indy" testimonial="" />
+      <student name="Andrea Hughes" image="/Fall/2008/winter 08 014.jpg"
+               hometown="East-Indy" testimonial="" />
+      <student name="Stephanie McNew" image="/Fall/2008/winter 08 015.jpg"
+               hometown="Straughn" testimonial="" />
+      <student name="Shawny Merkel" image="/Fall/2008/winter 08 016.jpg"
+               hometown="Noblesville" testimonial="" />
+      <student name="Holli McCown" image="/Fall/2008/winter 08 017.jpg"
+               hometown="Muncie" testimonial="" />
+      <student name="Misty Pendergraft" image="/Fall/2008/winter 08 018.jpg"
+               hometown="Fishers" testimonial="" />
+    </day>
+  </class>
+  <class period="Spring 2008">
+    <day image="/Spring/2008/SpringClass2008.jpg">
+      <student name="Shelly Dearinger" image="/Spring/2008/ShellyDearinger.jpg"
+               hometown="Muncie" testimonial="" />
+      <student name="Kelly Tipton" image="/Spring/2008/KellyTipton.jpg"
+               hometown="Fishers" testimonial="" />
+      <student name="Alexis Hall" image="/Spring/2008/AlexisHall.jpg"
+               hometown="West-Indy" testimonial="" />
+      <student name="Terri Clensy" image="/Spring/2008/TerriClensy.jpg"
+               hometown="Middletown" testimonial="" />
+      <student name="Katrina Voyles" image="/Spring/2008/LaurenWray.jpg"
+               hometown="Pendleton" testimonial="" />
+      <student name="Susan Yeary" image="/Spring/2008/SusanYeary.jpg"
+               hometown="Fishers" testimonial="" />
+      <student name="Halie Hinsey" image="/Spring/2008/HalieHinsey.jpg"
+               hometown="New Castle" testimonial="" />
+      <student name="Amanda Clemons" image="/Spring/2008/AmandaClemons.jpg"
+               hometown="South-Indy" testimonial="" />
+      <student name="Becky Janes" image="/Spring/2008/BeckyJanes.jpg"
+               hometown="Greenfield" testimonial="" />
+      <student name="Lauren Wray" image="/Spring/2008/KatrinaVoyles.jpg"
+               hometown="Middletown" testimonial="" />
+      <student name="Kristen Lilly" image="/Spring/2008/100_1565.jpg"
+               hometown="Fishers" testimonial="" />
+    </day>
+  </class>
+  <class period="Winter 2008">
+    <day image="/Winter/2008/WinterClass2008_168.jpg">
+      <student name="Kari Reno" image="/Winter/2008/KariReno_100.jpg"
+               hometown="Middletown, IN" testimonial="" />
+      <student name="Erika Matthews" image="/Winter/2008/ErikaMatthews_100.jpg"
+               hometown="Sulpher Springs, IN" testimonial="" />
+      <student name="JoAnna Johnson" image="/Winter/2008/JoannaJohnson_100.jpg"
+               hometown="Cicero, IN" testimonial="" />
+      <student name="Amber Patterson" image="/Winter/2008/AmberPatterson_100.jpg"
+               hometown="Muncie, IN" testimonial="" />
+      <student name="Ashley Lanning" image="/Winter/2008/AshleyLanning_100.jpg"
+               hometown="Middletown, IN" testimonial="" />
+      <student name="Deidre Russell" image="/Winter/2008/DeidreRussell_100.jpg"
+               hometown="Southside, Indy" testimonial="" />
+      <student name="Michelle Meier" image="/Winter/2008/MichelleMeier_100.jpg"
+               hometown="Seymour, IN" testimonial="" />
+      <student name="Holly Skeoch" image="/Winter/2008/HollySkeoch_100.jpg"
+               hometown="Anderson, IN" testimonial="" />
+      <student name="Melissa Sexton" image="/Winter/2008/MelissaSexton_100.jpg"
+               hometown="" testimonial="" />
+    </day>
+  </class>
+  <class period="Fall 2007">
+    <day image="/Fall/2007/FallDayClass2007_168.jpg">
+      <student name="Jade Jeffries" image="/Fall/2007/JadeJeffries_100.jpg"
+               hometown="Anderson, IN" testimonial="" />
+      <student name="Diana Boicourt" image="/Fall/2007/DianaBoicourt_100.jpg"
+               hometown="Mechanicsburg, IN" testimonial="" />
+      <student name="Kisha Jones" image="/Fall/2007/KishaJones_100.jpg"
+               hometown="Indianapolis - East" testimonial="" />
+      <student name="Margaret Lamb" image="/Fall/2007/MargaretLamb_100.jpg"
+               hometown="Noblesville, IN" testimonial="" />
+      <student name="Kelly Bogan" image="/Fall/2007/KellyBogan_100.jpg"
+               hometown="Lebanon, IN" testimonial="" />
+      <student name="Angie Rather" image="/Fall/2007/AngieRather_100.jpg"
+               hometown="Indianapolis - South" testimonial="" />
+      <student name="Samantha McCalister" image="/Fall/2007/SamanthaMcCalister_100.jpg"
+               hometown="Indianapolis" testimonial="" />
+      <student name="Kacey Collins" image="/Fall/2007/KaceyCollins_100.jpg"
+               hometown="Napanee, IN" testimonial="" />
+      <student name="Megan Koers" image="/Fall/2007/MeganKoers_100.jpg"
+               hometown="Morristown, IN" testimonial="" />
+    </day>
+  </class>
+  <class period="Spring 2007">
+    <day image="/Spring/2007/Day/SpringDayClass2007.jpg">
+      <student name="Ashely Lester" image="/Spring/2007/Day/AshelyLester.jpg"
+               hometown="Indianapolis - East" testimonial="" />
+      <student name="Brandi Huff" image="/Spring/2007/Day/BrandiHuff.jpg"
+               hometown="Middletown, IN" testimonial="" />
+      <student name="Rairre Dunn" image="/Spring/2007/Day/RairreDunn.jpg"
+               hometown="Indianapolis - East" testimonial="" />
+      <student name="Julie Gant" image="/Spring/2007/Day/JulieGant.jpg"
+               hometown="Indianapolis - South" testimonial="" />
+      <student name="Lesa Pridgen" image="/Spring/2007/Day/LesaPridgen.jpg"
+               hometown="Greenfield, IN" testimonial="" />
+    </day>
+    <evening image="/Spring/2007/Evening/SpringEveningClass2007.jpg">
+      <student name="Desirie Ingalls" image="/Spring/2007/Evening/DesirieIngalls.jpg" 
+               hometown="Greenfield, IN" testimonial="" />
+      <student name="Renee Woodruff" image="/Spring/2007/Evening/ReneeWoodruff.jpg"
+               hometown="Frankfort,IN" testimonial="" />
+      <student name="Vanessa Vestal" image="/Spring/2007/Evening/VanessaVestal.jpg"
+               hometown="Indianapolis-East" testimonial="" />
+      <student name="Mallori Barker" image="/Spring/2007/Evening/MalloriBarker.jpg"
+               hometown="Indianapolis-East" testimonial="" />
+      <student name="Nicole Wood" image="/Spring/2007/Evening/NicoleWood.jpg"
+               hometown="Indianapolis-South" testimonial="" />
+      <student name="Cesly Watkins" image="/Spring/2007/Evening/CeslyWatkins.jpg"
+               hometown="Fishers, IN" testimonial="" />
+    </evening>
+  </class>
+  <class period="Winter 2007">
+    <day image="">
+      <student name="Deidre Pearson" image="/Winter/2007/DeidrePearson.jpg"
+               hometown="" testimonial="" />
+      <student name="Katie Smith" image="/Winter/2007/KatieSmith.jpg"
+               hometown="" testimonial="" />
+      <student name="Leslie Fritz" image="/Winter/2007/LeslieFritz.jpg"
+               hometown="" testimonial="" />
+      <student name="Alma Shoopman" image="/Winter/2007/AlmaShoopman.jpg"
+               hometown="" testimonial="" />
+    </day>
+  </class>
+  <class period="Fall 2006">
+    <day image="">
+      <student name="Jane Delph" image="/Fall/2006/JaneDelph.jpg"
+               hometown="" testimonial="Career paths can change and you should never stop learning. This is a great short term course that you can continue to learn and grow with. This is especially good for working adults." />
+      <student name="Liz Hagel" image="/Fall/2006/LizHagel.jpg"
+               hometown="" testimonial="Lynn's class opens your eyes to all the opportunities and pushes you to be the best." />
+      <student name="William Carney" image="/Fall/2006/WilliamCarney.jpg"
+               hometown="" testimonial="This course has opened a whole new area of opportunity for me in my life. I was hired before I graduated by a great dental company. This is a great short course that can develop into an awesome career. Thanks, Lynn" />
+      <student name="Dawn Hathcoat" image="/Fall/2006/DawnHathcoat.jpg"
+               hometown="" testimonial="With the class size being so small and the opportunity to learn in new and different ways, this course gave me a whole new confidence about myself. I really enjoyed the course and learning about the different pathways you can take." />
+      <student name="Kara Williams" image="/Fall/2006/KaraWilliams.jpg"
+               hometown="" testimonial="I went in wanting to learn a new profession, which I did, but came out with a lot of friends and great memories. There are so many advantages of this course compared to others that i checked out. Learning 2 different computer soft wares really give this course an edge over the others. Thanks for you help and motivation. I hope to make you proud." />
+      <student name="Vonnie Wessell" image="/Fall/2006/VonnieWessell.jpg"
+               hometown="" testimonial="Thanks for helping me start a new career in my life. You not only gave me a new direction, but you've also helped my family, too. Thanks for everything." />
+      <student name="Terri Lewis" image="/Fall/2006/TerriLewis.jpg"
+               hometown="" testimonial="This course gave me confidence and helped me to believe in myself again. Thanks for everything you have done for me Ms. Lynn." />
+      <student name="Tara Beatty" image="/Fall/2006/TaraBeatty.jpg"
+               hometown="" testimonial="" />
+    </day>
+  </class>
+  <class period="Spring 2006">
+    <day image="">
+      <student name="Patty Olgesby" image="/Spring/2006/PattyOlgesby.jpg"
+               hometown="" testimonial="" />
+      <student name="Andy Barnett" image="/Spring/2006/AndyBarnett.jpg"
+               hometown="" testimonial="" />
+      <student name="Chelsea Carney" image="/Spring/2006/ChelseaCarney.jpg"
+               hometown="" testimonial="" />
+      <student name="Peggy Wiesjahn" image="/Spring/2006/PeggyWiesjahn.jpg"
+               hometown="" testimonial="" />
+      <student name="Cassey Corn" image="/Spring/2006/CasseyCorn.jpg"
+               hometown="" testimonial="" />
+    </day>
+  </class>
+</studentprofiles>
+

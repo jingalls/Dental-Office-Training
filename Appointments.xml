@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<appointments>
+  <year value="2008">
+    <january>
+      <appt id="14" day="1" begin="" end="" description="No Class" popupdescription="" />
+      <appt id="15" day="2" begin="" end="" description="No Class" popupdescription="" />
+      <appt id="16" day="7" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="17" day="8" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="18" day="9" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="19" day="14" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="20" day="15" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="21" day="16" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="22" day="21" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="23" day="22" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="24" day="23" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="25" day="28" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="26" day="29" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="27" day="30" begin="9" end="4" description="Class" popupdescription="" />
+    </january>
+    <february>
+      <appt id="31" day="1" begin="9" end="1" description="Expanded Duties" popupdescription="" />
+      <appt id="32" day="1" begin="" end="" description="Expanded Duties Starts" popupdescription="Expanded Duties starts Feb. 1 &lt;br /&gt;Enroll now.. Seating limited to 6 students." />
+      <appt id="33" day="2" begin="9" end="1" description="Expanded Duties" popupdescription="" />
+      <appt id="34" day="8" begin="9" end="1" description="Expanded Duties" popupdescription="" />
+      <appt id="35" day="9" begin="9" end="1" description="Expanded Duties" popupdescription="" />
+      <appt id="36" day="15" begin="9" end="1" description="Expanded Duties" popupdescription="" />
+      <appt id="37" day="16" begin="9" end="1" description="Expanded Duties" popupdescription="" />
+      <appt id="38" day="22" begin="9" end="1" description="Expanded Duties" popupdescription="" />
+      <appt id="39" day="23" begin="9" end="1" description="Expanded Duties" popupdescription="" />
+      <appt id="40" day="29" begin="9" end="1" description="Expanded Duties" popupdescription="" />
+      <appt id="41" day="4" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="42" day="5" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="43" day="6" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="44" day="11" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="45" day="12" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="46" day="13" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="47" day="18" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="48" day="19" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="49" day="20" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="50" day="25" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="51" day="26" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="52" day="27" begin="9" end="4" description="Class" popupdescription="" />
+    </february>
+    <march>
+      <appt id="54" day="1" begin="9" end="1" description="Expanded Duties" popupdescription="" />
+      <appt id="55" day="3" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="56" day="4" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="57" day="5" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="58" day="7" begin="10" end="4" description="Radiology Class" popupdescription="" />
+      <appt id="59" day="8" begin="9" end="3" description="Radiology Class" popupdescription="" />
+      <appt id="60" day="14" begin="10" end="4" description="Radiology Class" popupdescription="" />
+      <appt id="61" day="15" begin="9" end="3" description="Radiology Class" popupdescription="" />
+      <appt id="62" day="17" begin="" end="" description="Spring Session Begins" popupdescription="Spring Session begins March 17 &lt;bt /&gt;Class is full!" />
+    </march>
+    <april>
+      <appt id="63" day="5" begin="9" end="1" description="Expanded Duties" popupdescription="" />
+      <appt id="64" day="7" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="65" day="8" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="66" day="9" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="67" day="12" begin="9" end="1" description="Expanded Duties" popupdescription="" />
+      <appt id="68" day="14" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="69" day="15" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="70" day="16" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="71" day="19" begin="9" end="1" description="Expanded Duties" popupdescription="" />
+      <appt id="72" day="21" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="73" day="22" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="74" day="23" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="75" day="26" begin="9" end="1" description="Expanded Duties" popupdescription="" />
+      <appt id="76" day="28" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="77" day="29" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="78" day="30" begin="9" end="4" description="Class" popupdescription="" />
+    </april>
+    <may>
+      <appt id="95" day="5" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="96" day="6" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="97" day="7" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="98" day="12" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="99" day="13" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="100" day="14" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="79" day="16" begin="9" end="2" description="Radiology class" popupdescription="" />
+      <appt id="80" day="16" begin="3" end="7" description="Expanded Duties" popupdescription="" />
+      <appt id="81" day="17" begin="3" end="8" description="Radiology class" popupdescription="" />
+      <appt id="82" day="17" begin="9" end="2" description="Expanded Duties" popupdescription="" />
+      <appt id="101" day="19" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="102" day="20" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="103" day="21" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="104" day="26" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="105" day="27" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="106" day="28" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="87" day="30" begin="9" end="2" description="Radiology class" popupdescription="" />
+      <appt id="88" day="30" begin="3" end="7" description="Expanded Duties" popupdescription="" />
+      <appt id="89" day="31" begin="3" end="8" description="Radiology class" popupdescription="" />
+      <appt id="90" day="31" begin="9" end="2" description="Expanded Duties" popupdescription="" />
+    </may>
+    <june>
+      <appt id="107" day="2" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="108" day="3" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="109" day="4" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="91" day="6" begin="3" end="7" description="Expanded Duties" popupdescription="" />
+      <appt id="92" day="7" begin="9" end="2" description="Expanded Duties" popupdescription="" />
+    </june>
+    <august>
+      <appt id="93" day="18" begin="" end="" description="Fall Session Begins" popupdescription="Fall Session begins August 18 &lt;bt /&gt;Now accepting enrollments." />
+      <appt id="110" day="29" begin="9" end="2" description="Radiology Class" popupdescription="" />
+    </august>
+    <september>
+      <appt id="111" day="5" begin="9" end="2" description="Radiology Class" popupdescription="" />
+      <appt id="112" day="12" begin="9" end="2" description="Radiology Class" popupdescription="" />
+      <appt id="113" day="19" begin="9" end="2" description="Radiology Class" popupdescription="" />
+    </september>
+    <november>
+      <appt id="94" day="17" begin="" end="" description="Winter Session Begins" popupdescription="Winter Session begins November 16" />
+      <appt id="114" day="17" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="115" day="18" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="116" day="19" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="117" day="24" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="118" day="25" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="119" day="26" begin="9" end="4" description="Class" popupdescription="" />
+    </november>
+    <december>
+      <appt id="120" day="1" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="121" day="2" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="122" day="3" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="123" day="8" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="124" day="9" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="125" day="10" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="126" day="15" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="127" day="16" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="128" day="17" begin="9" end="4" description="Class" popupdescription="" />
+    </december>
+  </year>
+  <year value="2009">
+    <january>
+      <appt id="135" day="5" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="136" day="6" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="137" day="7" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="138" day="12" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="139" day="13" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="140" day="14" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="141" day="19" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="142" day="20" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="143" day="21" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="144" day="26" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="145" day="27" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="146" day="28" begin="9" end="4" description="Class" popupdescription="" />
+    </january>
+    <february>
+      <appt id="147" day="2" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="148" day="3" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="149" day="4" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="150" day="9" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="151" day="10" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="152" day="11" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="153" day="16" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="154" day="17" begin="9" end="4" description="Class" popupdescription="" />
+      <appt id="155" day="18" begin="9" end="4" description="Class" popupdescription="" />
+    </february>
+  </year>
+</appointments>
